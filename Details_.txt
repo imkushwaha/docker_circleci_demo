@@ -1,0 +1,19 @@
+
+Heroku App Name
+dockercirclecidemo
+
+Heroku API KEY
+585508d5-6158-4ccd-97ca-18edec236177
+
+Heroku Email
+uv48762@gmail.com
+
+Docker
+ID: uv764
+Pass: upend764@
+
+Docker Image Name:
+circlecidemo764
+
+
+https://github.com/Avnish327030/wafer_circleci/blob/main/main.py
